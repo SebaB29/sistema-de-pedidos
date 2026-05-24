@@ -42,8 +42,8 @@ Developed as a collaborative group assignment, this project implements a full li
 ## ⚙️ Installation
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:SebaB29/SistemaDePedidos.git
-   cd order-management-system
+   git clone git@github.com:SebaB29/sistema-de-pedidos.git
+   cd sistema-de-pedidos
    ```
 
 2. Configure Environment:
